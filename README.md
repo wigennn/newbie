@@ -2,7 +2,7 @@
 rpc named newbie, learn from nettyRpc
 
 ### 一、整体架构
-![newbie-rpc](docs/imgs/newbie-rpc.png)
+![newbie-rpc](./docs/imgs/newbie-rpc.png)
 
 ### 二、newbie rpc组成
 - 注册中心
